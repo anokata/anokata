@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anokata&show_icons=true&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anokata&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anokata&layout=compact&hide=php,css)
 
 
 <!--
