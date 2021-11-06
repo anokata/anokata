@@ -11,6 +11,8 @@ A passionated frontend developer.
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anokata&theme=dark)
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anokata&hide_border=true)
+
 
 <!--
 Here are some ideas to get you started:
