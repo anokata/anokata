@@ -8,7 +8,7 @@ A passionated frontend developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anokata&layout=compact&hide=php,java&theme=dark)    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anokata&show_icons=true&theme=dark)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anokata&theme=dark)
+#![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anokata&theme=dark)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anokata&hide_border=true)
 
 
