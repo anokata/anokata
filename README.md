@@ -2,7 +2,7 @@
 
 A passionated frontend developer.
 - 🔭  I’m currently working on web development.
-- 🌱 I’m currently learning html and angular
+- 🌱 I’m currently learning bem and angular
 - 📫 How to reach me: tg: @quartenium
 
 
