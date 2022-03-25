@@ -2,8 +2,8 @@
 
 A passionated frontend developer.
 - 🔭  I’m currently working on web development.
-- 🌱 I’m currently learning bem and angular
-- 📫 How to reach me: tg: @quartenium
+- 🌱 I’m currently learning bem, angular, ts, design patterns
+- 📫 How to reach me: tg - @quartenium
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anokata&layout=compact&hide=php,java&theme=dark)    
