@@ -3,7 +3,6 @@ name: Update README with my latest coding stats
 on:
   schedule:
     - cron: '0 5 * * *'
-  workflow_run:
   push:
   
   
