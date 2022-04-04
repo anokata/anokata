@@ -2,8 +2,11 @@ name: Update README with my latest coding stats
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-
+    - cron: '0 5 * * *'
+  workflow_run:
+  push:
+  
+  
 jobs:
   update-Readme:
     name: Automatically update my README  
