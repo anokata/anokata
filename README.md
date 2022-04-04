@@ -12,6 +12,8 @@ A passionated frontend developer.
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anokata&hide_border=true)
 
 
+<img src="https://github.com/anokata/anokata/blob/master/images/codeStats.svg" alt=""/>
+
 
 <!--
 Here are some ideas to get you started:
