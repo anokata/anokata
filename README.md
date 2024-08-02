@@ -6,9 +6,9 @@ A passionated frontend developer.
 - 📫 How to reach me: tg - @quartenium
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anokata&layout=compact&hide=php,java,vimscript&theme=dark)    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anokata&show_icons=true&theme=dark)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anokata&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anokata&layout=compact&hide=php,java,vimscript&theme=light)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anokata&show_icons=true&theme=light)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anokata&theme=light&layout=compact)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anokata&hide_border=true)
 
 
