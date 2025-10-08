@@ -8,9 +8,9 @@ I'm a code-slinging wizard, enchanting buttons to change colors
 - ⚡ Remember, life's too short to take things too seriously. Unless, of course, we're talking about code quality. 😉
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anokata&layout=compact&hide=php,java,vimscript&theme=light)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anokata&layout=compact&hide=php,java,vimscript&theme=github_dark&hide_border=true)    
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anokata&show_icons=true&theme=light) -->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anokata&theme=light&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anokata&theme=github_dark&layout=compact&hide_border=true)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anokata&hide_border=true)
 
 
