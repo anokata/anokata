@@ -12,7 +12,7 @@ I'm a code-slinging wizard, enchanting buttons to change colors
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anokata&show_icons=true&theme=github_dark) -->
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anokata&theme=github_dark&layout=compact&hide_border=true&langs_count=32&hide=other)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anokata&theme=github_dark&layout=compact&hide_border=true&langs_count=28&hide=other,textmate,Config,snippets,LESS,Text)
 
 
 <!--
